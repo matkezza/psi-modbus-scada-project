@@ -1,1 +1,1 @@
-# dCom
+# Projekat iz predmeta Akvizaciono upravljacki sistemi.
