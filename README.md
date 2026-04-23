@@ -1,1 +1,1 @@
-# Projekat iz predmeta Akvizaciono upravljacki sistemi.
+# Projekat iz Akvizaciono upravljackih sistema.
